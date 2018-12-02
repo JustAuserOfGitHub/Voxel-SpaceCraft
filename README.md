@@ -1,1 +1,1 @@
-# Voxel-SpaceCraft
+# Voxel SpaceCraft
